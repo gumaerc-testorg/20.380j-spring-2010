@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8c2290e3-7cf3-c24a-05ef-53a134749585
 title: Technical Paper Presentation Guidelines
 uid: c4d22f77-6c52-9fd5-9a29-1a4b7f1e9f32

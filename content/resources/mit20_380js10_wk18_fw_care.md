@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: 'This resource contains the information regarding to workshop: drug carriers.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-380j-biological-engineering-design-spring-2010/1c1d72ec1bf2fc12c95cbf32fc903121_MIT20_380JS10_wk18_fw_care.pdf
+file: /media/courses/20-380j-biological-engineering-design-spring-2010/1c1d72ec1bf2fc12c95cbf32fc903121_MIT20_380JS10_wk18_fw_care.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Lectures and Readings
+parent_type: CourseSection
 resourcetype: Document
 title: MIT20_380JS10_wk18_fw_care.pdf
 uid: 1c1d72ec-1bf2-fc12-c95c-bf32fc903121

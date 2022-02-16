@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lectures and Readings
 uid: 52e203d2-2d0d-9bb1-0143-e079117c1785
 ---
@@ -29,7 +31,7 @@ READINGS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -41,7 +43,7 @@ All
 {{< tdopen >}}
 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3MB]({{< baseurl >}}/resources/mit20_380js10_lec01_intro))
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 
@@ -229,7 +231,7 @@ Essigmann
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 17  
  
 {{< tdclose >}}
@@ -263,7 +265,7 @@ The class will divide into your teams and analyze particular sections of a pancr
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 18  
  
 {{< tdclose >}}
@@ -276,7 +278,7 @@ Irvine
 {{< tdopen >}}
 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB]({{< baseurl >}}/resources/mit20_380js10_wk18_di_trgt))
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 

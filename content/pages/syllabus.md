@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b2588aa9-689f-4c7b-839d-bdb6692eb93f
 ---
@@ -7,7 +9,7 @@ uid: b2588aa9-689f-4c7b-839d-bdb6692eb93f
 Course Meeting Times
 --------------------
 
-Two sessions / week, 3 hours per session: 1st hour recitation format, 2nd and 3rd hours lecture/seminar format
+Two sessions / week, 3 hours per session: 1{{< sup "st" >}} hour recitation format, 2{{< sup "nd" >}} and 3{{< sup "rd" >}} hours lecture/seminar format
 
 Prerequisites
 -------------
@@ -144,7 +146,7 @@ KEY DATES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 1.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -153,7 +155,7 @@ Introduction to the course
 {{< tdopen >}}
 All
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
    
  
 {{< tdclose >}}
@@ -229,7 +231,7 @@ CI-M staff
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 6.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -238,7 +240,7 @@ Background: Molecular warfare in inflammation
 {{< tdopen >}}
 Essigmann
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
    
    
  
@@ -384,7 +386,7 @@ Guest: Robert Langer
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 15.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -393,7 +395,7 @@ Workshop: Regulatory agencies and clinical trials
 {{< tdopen >}}
 Essigmann
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 
@@ -423,7 +425,7 @@ Project work (cont.)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 17.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -432,7 +434,7 @@ Communications review 2
 {{< tdopen >}}
 Banuazizi
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 
@@ -447,7 +449,7 @@ White
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 18.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -456,7 +458,7 @@ Workshop: Drug targeting
 {{< tdopen >}}
 Irvine
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8c2290e3-7cf3-c24a-05ef-53a134749585
 title: Design Pitch Presentation Guidelines
 uid: 3a13d2ef-7ad3-b237-486d-2b7a04193d9b
