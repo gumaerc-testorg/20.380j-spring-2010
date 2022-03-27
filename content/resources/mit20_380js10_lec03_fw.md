@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: 52e203d2-2d0d-9bb1-0143-e079117c1785
 resourcetype: Document
 title: MIT20_380JS10_lec03_fw.pdf
 uid: c7d22720-4c99-faca-d6aa-ed999a38dc9a

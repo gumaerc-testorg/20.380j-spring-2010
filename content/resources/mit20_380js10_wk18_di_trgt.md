@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: 52e203d2-2d0d-9bb1-0143-e079117c1785
 resourcetype: Document
 title: MIT20_380JS10_wk18_di_trgt.pdf
 uid: b9383dc2-d8d1-43a6-b764-3a94902e0919

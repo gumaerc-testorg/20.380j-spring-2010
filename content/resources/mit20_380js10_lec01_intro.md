@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: 52e203d2-2d0d-9bb1-0143-e079117c1785
 resourcetype: Document
 title: MIT20_380JS10_lec01_intro.pdf
 uid: 2d3ed14d-7cc3-db1a-aaa3-4121a2566f19
