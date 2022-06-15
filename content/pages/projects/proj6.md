@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides guidelines for the final design report of the team
+  project of the course, including format, grading, deadlines, sections of the report,
+  and an overview.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

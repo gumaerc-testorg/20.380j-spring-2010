@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines for giving design pitch presentations
+  for the team project of the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

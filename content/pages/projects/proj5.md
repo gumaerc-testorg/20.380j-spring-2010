@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides guidelines for critiquing draft project papers
+  for the team project of the course, including information on motivation/significance,
+  a design description, and approach.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

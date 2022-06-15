@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section presents the schedule of lecture topics, lecture slides
+  for selected class sessions, and reading assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lectures and Readings
@@ -41,7 +43,7 @@ Introduction to the course
 All
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3MB]({{< baseurl >}}/resources/mit20_380js10_lec01_intro))
+({{% resource_link 2d3ed14d-7cc3-db1a-aaa3-4121a2566f19 "PDF - 2.3MB" %}})
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
  
@@ -56,7 +58,7 @@ Background: Inflammation in healthy immune response
 Irvine
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mit20_380js10_lec01_di))
+({{% resource_link 34dbd22f-1f33-7e54-78b8-7fb2f7816b4f "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +99,7 @@ Background: Inflammation in obesity and diabetes
 White
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 5.0MB]({{< baseurl >}}/resources/mit20_380js10_lec03_fw))
+({{% resource_link c7d22720-4c99-faca-d6aa-ed999a38dc9a "PDF - 5.0MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -123,7 +125,7 @@ Background: Inflammation in cardiovascular disease
 Essigmann
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 8.3MB]({{< baseurl >}}/resources/mit20_380js10_lec04_je))
+({{% resource_link 9aebfdff-ee66-d8d7-34e6-07110574a96e "PDF - 8.3MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -223,7 +225,7 @@ Workshop: Regulatory agencies and clinical trials
 Essigmann
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mit20_380js10_lec15_je))
+({{% resource_link 5fff9e40-af88-2458-edc4-014fee59bb96 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -242,7 +244,7 @@ Workshop: Signaling networks
 White
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB]({{< baseurl >}}/resources/mit20_380js10_wk17_fw))
+({{% resource_link 0dc75657-9c97-c94f-dede-fe8e5d74a1c3 "PDF - 2.0MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -276,7 +278,7 @@ Workshop: Drug targeting
 Irvine
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB]({{< baseurl >}}/resources/mit20_380js10_wk18_di_trgt))
+({{% resource_link b9383dc2-d8d1-43a6-b764-3a94902e0919 "PDF - 2.0MB" %}})
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
  
@@ -291,7 +293,7 @@ Workshop: Drug carriers
 Irvine
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit20_380js10_wk18_fw_care))
+({{% resource_link 1c1d72ec-1bf2-fc12-c95c-bf32fc903121 "PDF - 1.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
