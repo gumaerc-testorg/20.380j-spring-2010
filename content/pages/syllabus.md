@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on meeting times, prerequisites,
+  course goals, coursework and grading, and the schedule of topics, instructors, and
+  assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b2588aa9-689f-4c7b-839d-bdb6692eb93f
 ---
@@ -7,17 +12,17 @@ uid: b2588aa9-689f-4c7b-839d-bdb6692eb93f
 Course Meeting Times
 --------------------
 
-Two sessions / week, 3 hours per session: 1st hour recitation format, 2nd and 3rd hours lecture/seminar format
+Two sessions / week, 3 hours per session: 1{{< sup "st" >}} hour recitation format, 2{{< sup "nd" >}} and 3{{< sup "rd" >}} hours lecture/seminar format
 
 Prerequisites
 -------------
 
 Officially:
 
-*   [7.06 Cell Biology](/courses/7-06-cell-biology-spring-2007/)
+*   [7.06 Cell Biology](/courses/7-06-cell-biology-spring-2007)
 *   [20.309 Biological Engineering II: Instrumentation and Measurement](/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006)
 
-In a more general sense, this course is a capstone in the biological engineering degree program, synthesizing and applying the knowledge gained in many prior classes, especially the sequence [20.310J](/courses/20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015/), [20.320](/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/), and [20.330J](/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007).
+In a more general sense, this course is a capstone in the biological engineering degree program, synthesizing and applying the knowledge gained in many prior classes, especially the sequence [20.310J](/courses/20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015), [20.320](/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012), and [20.330J](/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007).
 
 Course Goals
 ------------
@@ -144,7 +149,7 @@ KEY DATES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 1.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -153,7 +158,7 @@ Introduction to the course
 {{< tdopen >}}
 All
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
    
  
 {{< tdclose >}}
@@ -229,7 +234,7 @@ CI-M staff
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 6.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -238,7 +243,7 @@ Background: Molecular warfare in inflammation
 {{< tdopen >}}
 Essigmann
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
    
    
  
@@ -384,7 +389,7 @@ Guest: Robert Langer
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 15.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -393,7 +398,7 @@ Workshop: Regulatory agencies and clinical trials
 {{< tdopen >}}
 Essigmann
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 
@@ -423,7 +428,7 @@ Project work (cont.)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 17.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -432,7 +437,7 @@ Communications review 2
 {{< tdopen >}}
 Banuazizi
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 
@@ -447,7 +452,7 @@ White
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 18.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -456,7 +461,7 @@ Workshop: Drug targeting
 {{< tdopen >}}
 Irvine
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 

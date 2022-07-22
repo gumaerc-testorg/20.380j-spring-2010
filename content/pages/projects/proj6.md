@@ -1,6 +1,13 @@
 ---
 content_type: page
+description: This section provides guidelines for the final design report of the team
+  project of the course, including format, grading, deadlines, sections of the report,
+  and an overview.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8c2290e3-7cf3-c24a-05ef-53a134749585
 title: Guidelines for Final Design Report
 uid: 27ee82a9-a04b-294f-3c46-565333a80b89

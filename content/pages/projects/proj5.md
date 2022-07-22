@@ -1,6 +1,13 @@
 ---
 content_type: page
+description: This section provides guidelines for critiquing draft project papers
+  for the team project of the course, including information on motivation/significance,
+  a design description, and approach.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8c2290e3-7cf3-c24a-05ef-53a134749585
 title: Guidelines for Peer Review of Final Report Drafts
 uid: 57003b17-ff17-3d4c-4035-5e23fba69bbb

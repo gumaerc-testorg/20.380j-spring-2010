@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on project teams and deliverables for
+  the course. Specific guidelines are provided for some deliverables.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 8c2290e3-7cf3-c24a-05ef-53a134749585
 ---
@@ -24,7 +29,7 @@ Ses #
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Technical paper presentation]({{< baseurl >}}/pages/projects/proj1)
+{{% resource_link c4d22f77-6c52-9fd5-9a29-1a4b7f1e9f32 "Technical paper presentation" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 7-8
@@ -42,7 +47,7 @@ Peer review of technical paper presentations
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Design pitch presentation]({{< baseurl >}}/pages/projects/proj3)
+{{% resource_link 3a13d2ef-7ad3-b237-486d-2b7a04193d9b "Design pitch presentation" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 11-13
@@ -60,7 +65,7 @@ Draft final report
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Peer review of draft final report]({{< baseurl >}}/pages/projects/proj5)
+{{% resource_link 57003b17-ff17-3d4c-4035-5e23fba69bbb "Peer review of draft final report" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 22
@@ -69,7 +74,7 @@ Draft final report
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Final report]({{< baseurl >}}/pages/projects/proj6)
+{{% resource_link 27ee82a9-a04b-294f-3c46-565333a80b89 "Final report" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 24
