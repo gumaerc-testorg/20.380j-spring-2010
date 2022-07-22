@@ -5,6 +5,7 @@ description: 'This resource contains the information for background: inflammatio
 file: /courses/20-380j-biological-engineering-design-spring-2010/c7d227204c99facad6aaed999a38dc9a_MIT20_380JS10_lec03_fw.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT20_380JS10_lec03_fw.pdf
 uid: c7d22720-4c99-faca-d6aa-ed999a38dc9a
 ---
 This resource contains the information for background: inflammation in obesity and diabetes.
-
