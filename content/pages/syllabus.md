@@ -35,7 +35,7 @@ Underpinnings:
 - *Practical Pre-clinical and Clinical Analysis* – How does your device/drug/product work, how will you test it?
 - *Manufacturing* – How will you make it? Can it be made at reasonable cost?
 
-This is a CI-M ({{% resource_link "859eea75-ff53-480b-bdbf-67db3f642ecc" "Communications Intensive in the Major" %}}) subject. The communications portion focuses on professional skills like project management, communications in teams, peer review, and writing grant proposals.
+This is a CI-M ([Communications Intensive in the Major](http://web.mit.edu/commreq/)) subject. The communications portion focuses on professional skills like project management, communications in teams, peer review, and writing grant proposals.
 
 ## Coursework and Grading
 

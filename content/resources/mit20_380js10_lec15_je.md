@@ -3,6 +3,7 @@ content_type: resource
 description: 'Workshop: Regulatory agencies and clinical trials workshop: regulatory
   agencies and clinical trials.'
 file: /courses/20-380j-biological-engineering-design-spring-2010/5fff9e40af882458edc4014fee59bb96_MIT20_380JS10_lec15_je.pdf
+file_size: 1315279
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
