@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to immune system - the basics,
   inflammation in health and disease.
 file: /courses/20-380j-biological-engineering-design-spring-2010/34dbd22f1f337e5478b87fb2f7816b4f_MIT20_380JS10_lec01_di.pdf
+file_size: 1218075
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
