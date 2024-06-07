@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to biological inflammation.
 file: /courses/20-380j-biological-engineering-design-spring-2010/9aebfdffee66d8d734e607110574a96e_MIT20_380JS10_lec04_je.pdf
+file_size: 8714556
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
