@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information for background: inflammation
   in obesity and diabetes.'
-file: /courses/20-380j-biological-engineering-design-spring-2010/c7d227204c99facad6aaed999a38dc9a_MIT20_380JS10_lec03_fw.pdf
+file: /ol-ocw-studio-app/courses/20-380j-biological-engineering-design-spring-2010/c7d227204c99facad6aaed999a38dc9a_MIT20_380JS10_lec03_fw.pdf
 file_size: 5222095
 file_type: application/pdf
 learning_resource_types: []
