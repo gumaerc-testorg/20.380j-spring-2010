@@ -78,11 +78,11 @@ Irvine
 {{< tdopen >}}
 
 
-Vakkila, J., and M. T. Lotze. "[Inflammation and Necrosis Promote Tumor Growth](http://dx.doi.org/10.1038/nri1415)." _Nature Reviews Immunology_ 4 (August 2004): 641-648.
+Vakkila, J., and M. T. Lotze. "{{% resource_link "7fb0deb6-7146-4260-88a6-8e589c9828f5" "Inflammation and Necrosis Promote Tumor Growth" %}}." _Nature Reviews Immunology_ 4 (August 2004): 641-648.
 
-Wu, Y., and B. P. Zhou. "[Inflammation: A Driving Force Speeds Cancer Metastatis](http://www.ncbi.nlm.nih.gov/pubmed/19770594)." _Cell Cycle_ 8, no. 20 (2009): 3267-3273.
+Wu, Y., and B. P. Zhou. "{{% resource_link "5cfa4f66-b3df-4488-976d-e1ea2557a544" "Inflammation: A Driving Force Speeds Cancer Metastatis" %}}." _Cell Cycle_ 8, no. 20 (2009): 3267-3273.
 
-Yu, H., D. Pardoll, and R. Jove. "[STATs in Cancer Inflammation and Immunity: A Leading Role for STAT3](http://dx.doi.org/10.1038/nrc2734)." _Nature Reviews Cancer_ 9 (November 2009): 798-809.
+Yu, H., D. Pardoll, and R. Jove. "{{% resource_link "7f8e739d-470c-483d-b40b-90c9161427f5" "STATs in Cancer Inflammation and Immunity: A Leading Role for STAT3" %}}." _Nature Reviews Cancer_ 9 (November 2009): 798-809.
 
 
 {{< tdclose >}}
@@ -104,11 +104,11 @@ White
 {{< tdopen >}}
 
 
-Shoelson, S. E., L. Herrero, and A. Naaz. "[Obesity, Inflammation, and Insulin Resistance](http://www.gastrojournal.org/article/S0016-5085(07)00585-9/abstract)." _Gastroenterology_ 132 (2007): 2169-2180.
+Shoelson, S. E., L. Herrero, and A. Naaz. "{{% resource_link "d0c171ab-4bf2-4cd1-b49f-df1ea8fd10a6" "Obesity, Inflammation, and Insulin Resistance" %}}." _Gastroenterology_ 132 (2007): 2169-2180.
 
-Tauben, G. "[Prosperity's Plague](http://www.sciencemag.org/cgi/content/summary/325/5938/256)." _Science_ 325 (July 17, 2009): 256-260.
+Tauben, G. "{{% resource_link "1e22f42d-b64c-4910-a508-6e0324c575fa" "Prosperity's Plague" %}}." _Science_ 325 (July 17, 2009): 256-260.
 
-Wellen, K. E., and G. S. Hotamisligil. "[Inflammation, Stress, and Diabetes](http://www.jci.org/articles/view/25102)." _The Journal of Clinical Investigation_ 115, no. 5 (2005): 1111-1119.
+Wellen, K. E., and G. S. Hotamisligil. "{{% resource_link "7a3628e7-1572-4bc8-8f26-25ff806acd20" "Inflammation, Stress, and Diabetes" %}}." _The Journal of Clinical Investigation_ 115, no. 5 (2005): 1111-1119.
 
 
 {{< tdclose >}}
@@ -130,9 +130,9 @@ Essigmann
 {{< tdopen >}}
 
 
-Libby, P., P. M. Ridker, and G. K. Hansson. "[Inflammation in Atherosclerosis: From Pathophysiology to Practice](http://dx.doi.org/10.1016/j.jacc.2009.09.009)." _Journal of the American College of Cardiology_ 54, no. 23 (2009): 2129-2138.
+Libby, P., P. M. Ridker, and G. K. Hansson. "{{% resource_link "e41a2f71-3ce1-4bff-9007-b467c1d45584" "Inflammation in Atherosclerosis: From Pathophysiology to Practice" %}}." _Journal of the American College of Cardiology_ 54, no. 23 (2009): 2129-2138.
 
-Tabas, I. "[Macrophage Death and Defective Inflammation Resolution in Atherosclerosis](http://www.nature.com/nri/journal/v10/n1/abs/nri2675.html)." _Nature Reviews Immunology_ 10 (January 2010): 36-46.
+Tabas, I. "{{% resource_link "79e30941-bcd0-40c7-be50-79bc8372a546" "Macrophage Death and Defective Inflammation Resolution in Atherosclerosis" %}}." _Nature Reviews Immunology_ 10 (January 2010): 36-46.
 
 
 {{< tdclose >}}
@@ -156,21 +156,21 @@ Technical paper presentations
 
 **Cancer**
 
-Ditsworth, D., W.-X. Zong, and C. B. Thompson. "[Activation of Poly(ADP)-Ribose Polymerase (PARP-1) Induces Release of the Pro-Inflammatory Mediator HMGB1 from the Nucleus](http://www.jbc.org/content/282/24/17845)." _The Journal of Biological Chemistry_ 282, no. 24 (2007): 17845-17854.
+Ditsworth, D., W.-X. Zong, and C. B. Thompson. "{{% resource_link "4b3093e8-dab4-42c6-9ff1-5d88ac7b7624" "Activation of Poly(ADP)-Ribose Polymerase (PARP-1) Induces Release of the Pro-Inflammatory Mediator HMGB1 from the Nucleus" %}}." _The Journal of Biological Chemistry_ 282, no. 24 (2007): 17845-17854.
 
-Schafer, Z. T., et al. "[Antioxidant and Oncogene Rescue of Metabolic Defects Caused by Loss of Matrix Attachment](http://dx.doi.org/10.1038/nature08268)." _Nature_ 461 (2009): 109-113.
+Schafer, Z. T., et al. "{{% resource_link "d20c79f2-bc4c-4484-b320-a97d23691993" "Antioxidant and Oncogene Rescue of Metabolic Defects Caused by Loss of Matrix Attachment" %}}." _Nature_ 461 (2009): 109-113.
 
 **Obesity/Diabetes**
 
-Cao, H., et al. "[Identification of a Lipokine, a Lipid Hormone Linking Adipose Tissue to Systemic Metabolism](http://www.cell.com/retrieve/pii/S0092867408010143)." _Cell_ 134, no. 6 (2008): 933-944.
+Cao, H., et al. "{{% resource_link "2e108bf1-2c76-47e6-aa3c-9b7357564968" "Identification of a Lipokine, a Lipid Hormone Linking Adipose Tissue to Systemic Metabolism" %}}." _Cell_ 134, no. 6 (2008): 933-944.
 
-Nishimura, S., et al. "[CD8+ Effector T cells Contribute to Macrophage Recruitment and Adipose Tissue Inflammation in Obesity](http://dx.doi.org/10.1038/nm.1964)." _Nature Medicine_ 15, no. 8 (2009): 914-920.
+Nishimura, S., et al. "{{% resource_link "dce2f51d-a0e7-4b2c-a9f7-3fd8851efdcb" "CD8+ Effector T cells Contribute to Macrophage Recruitment and Adipose Tissue Inflammation in Obesity" %}}." _Nature Medicine_ 15, no. 8 (2009): 914-920.
 
 **Cardiovascular Disease**
 
-Erbay, E., et al. "[Reducing Endoplasmic Reticulum Stress Through a Macrophage Lipid Chaperone Alleviates Atherosclerosis](http://dx.doi.org/10.1038/nm.2067)." _Nature Medicine_ 15 (2009): 1383-1391.
+Erbay, E., et al. "{{% resource_link "018a072c-12ff-4f8c-bab2-3826b2b150f2" "Reducing Endoplasmic Reticulum Stress Through a Macrophage Lipid Chaperone Alleviates Atherosclerosis" %}}." _Nature Medicine_ 15 (2009): 1383-1391.
 
-Mandinov, L., et al. "[Copper Chelation Represses the Vascular Response to Injury](http://www.pnas.org/content/100/11/6700)." _PNAS_ 100, no. 11 (2003): 6700-6705.
+Mandinov, L., et al. "{{% resource_link "6cfd167f-c75a-4f5c-8938-3543a21ef32d" "Copper Chelation Represses the Vascular Response to Injury" %}}." _PNAS_ 100, no. 11 (2003): 6700-6705.
 
 
 {{< tdclose >}}
@@ -194,21 +194,21 @@ Robert Langer
 
 _Read the "Claims" sections of these patents. (Hint: some patents are good and others less so.)_
 
-Bossert, F., et al. "[Coronary Dilator in a Pharmaceutical Dosage Unit Form](https://www.google.com/patents/US3784684)." US Patent 3784684, filed August 21, 1972 and issued January 8, 1974.
+Bossert, F., et al. "{{% resource_link "3ef8fbc0-6268-495f-bb58-686efdf57b81" "Coronary Dilator in a Pharmaceutical Dosage Unit Form" %}}." US Patent 3784684, filed August 21, 1972 and issued January 8, 1974.
 
-Domb, A. J., and R. S. Langer. "[High Molecular Weight Polyanhydride and Preparation Thereof](https://www.google.com/patents/US4757128)." US Patent 4757128, filed August 1, 1986 and Issued July 12, 1988.
+Domb, A. J., and R. S. Langer. "{{% resource_link "dbe285dc-c97d-499f-a4e9-08b0d914ea9a" "High Molecular Weight Polyanhydride and Preparation Thereof" %}}." US Patent 4757128, filed August 1, 1986 and Issued July 12, 1988.
 
-Carey, M. C., A. C. Moses, and J. S. Fler. "[Drug Administration](https://www.google.com/patents/US4548922)." US Patent 4548922, filed June 6, 1983 and issued October 22, 1985.
+Carey, M. C., A. C. Moses, and J. S. Fler. "{{% resource_link "a85b2c6b-26b6-4d9a-a27b-da7d2019d498" "Drug Administration" %}}." US Patent 4548922, filed June 6, 1983 and issued October 22, 1985.
 
-Folkman, M. J., and R. S. Langer. "[Systems for the Controlled Release of Macromolecules](https://www.google.com/patents/US4391797)." US Patent 4391797, filed August 10, 1981 and issued July 5, 1983.
+Folkman, M. J., and R. S. Langer. "{{% resource_link "767869ef-d1a1-4a8e-8418-848b40428cd6" "Systems for the Controlled Release of Macromolecules" %}}." US Patent 4391797, filed August 10, 1981 and issued July 5, 1983.
 
-Bell, E. "[Tissue-Equivalent and Method for Preparation Thereof](https://www.google.com/patents/US4485096)." US Patent 4485096, filed May 26, 1982 and issued November 27, 1984.
+Bell, E. "{{% resource_link "83bc44c9-d1c4-4d47-ba55-81b50cd9976a" "Tissue-Equivalent and Method for Preparation Thereof" %}}." US Patent 4485096, filed May 26, 1982 and issued November 27, 1984.
 
-Mears, D. C. "[Regeneration of Living Tissues by Growth of Isolated Cells in Porous Implant and Product Thereof](https://www.google.com/patents/US4553272)." US Patent 4553272, filed February 26, 1981 and issued November 19, 1985.
+Mears, D. C. "{{% resource_link "e4acb043-3d9f-4228-85ca-0aa506a039da" "Regeneration of Living Tissues by Growth of Isolated Cells in Porous Implant and Product Thereof" %}}." US Patent 4553272, filed February 26, 1981 and issued November 19, 1985.
 
-Hewick, R. M., and J. S. Seehra. "[Method for the Purification of Erythropoietin and Erythropoietin Compositions](https://www.google.com/patents/US4677195)." US Patent 4677195, filed January 11, 1985 and issued June 30, 1987.
+Hewick, R. M., and J. S. Seehra. "{{% resource_link "24dcf5fe-ab1c-4d53-bd6f-1abd7460d28f" "Method for the Purification of Erythropoietin and Erythropoietin Compositions" %}}." US Patent 4677195, filed January 11, 1985 and issued June 30, 1987.
 
-Schlatter, J. M. "[Peptide Sweetening Agents](https://www.google.com/patents/US3492131)." US Patent 3492131, filed April 18, 1966 and issued January 27, 1970.
+Schlatter, J. M. "{{% resource_link "795077f2-af9e-4ea5-b06c-b09eb59e1186" "Peptide Sweetening Agents" %}}." US Patent 3492131, filed April 18, 1966 and issued January 27, 1970.
 
 
 {{< tdclose >}}
